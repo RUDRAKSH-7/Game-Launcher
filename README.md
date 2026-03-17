@@ -1,4 +1,4 @@
-# Game-Launcher
+# Game-Launcher (windows)
 
 A simple and minimal game launcher for the terminal.
 
