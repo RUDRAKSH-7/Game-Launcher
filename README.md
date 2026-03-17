@@ -10,7 +10,7 @@ A simple and minimal game launcher for the terminal.
 
 # Developer Notes:
 
-This utility is purely depended on built-in python modules, doesn't require any sort of installation of third-party modules
+This utility is purely dependenton built-in python modules, doesn't require any sort of installation of third-party modules
 ### Modules used
 pickle
 subprocess
