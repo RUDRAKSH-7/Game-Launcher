@@ -10,7 +10,7 @@ A simple and minimal game launcher for the terminal.
 
 # Developer Notes:
 
-This utility is purely dependent on built-in python modules, doesn't require any sort of installation of third-party modules
+This utility is purely depended on built-in python modules, doesn't require any sort of installation of third-party modules
 ### Modules used
 pickle
 subprocess
@@ -38,3 +38,8 @@ The drag and drop feature of terminal allows for the path to be entered in the i
 3. a better UI
 4. Color your game names
 5. favorites list
+
+## BUILD FROM SOURCE:
+`pyinstaller gamelauncher.py --onefile --icon=favicon.ico --name=GAMES`
+
+this should be modified as per your needs. Make sure to install pyinstaller from PyPI.
